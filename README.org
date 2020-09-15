@@ -1,0 +1,14 @@
+#+LaTeX_CLASS: mycustom 
+
+#+TITLE: Media Authentication with Electrical Network Frequency Analysis
+#+AUTHOR: Alvi Ahmed
+
+*Status:* Completed 
+*Type:* ELE792 Project
+
+* Objective 
+
+The purpose of this project was to create a program in matlab that
+could validate the authenticity of an audio file by detecting the
+changes in the frequency of the electrical grid / network.
+
